@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Einson69
+- 👀 I’m interested in artificial intelligence.
+- 🌱 I’m currently learning machine learning and deep learning.
+- 💞️ I’m looking to collaborate on data contests like Kaggle.
+- 📫 My email: puhuaxiang2021@163.com
